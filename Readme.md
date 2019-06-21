@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # Object type manual detection
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e61/)**
+<!-- run online end -->
 
 
 <p>This demo shows how to display or play back a file in a multimedia format (flash, audio, video) when the file's filename extension is not specified. In this case, you need to know the file’s MIME type and manually set the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxObjectContainer_ObjectTypetopic">ASPxObjectContainer.ObjectType</a> property to a corresponding value (Audio, Video, Flash, or Image).</p>
